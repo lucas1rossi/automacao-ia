@@ -1,0 +1,17 @@
+{
+  "nome": "Oncoexo",
+  "descricao": "Distribuidora de Medicamentos e Materiais Médicos",
+  "website": "https://oncoexo.com.br",
+  "email": "sac@oncoexo.com.br, vendas@oncoexo.com.br",
+  "telefone": "(81) 3268-6330, (81) 3040-7905",
+  "endereco": "Empresarial José Borba Maranhão - Rua Aluízio de Azevedo, 200 - Santo Amaro - Recife (PE)",
+  "tipo_empresa": "Distribuidor",
+  "segmentos_medicos": [],
+  "certificacoes": [],
+  "produtos": [],
+  "fontes": [
+    "https://oncoexo.com.br/",
+    "https://oncoexo.com.br/contato/"
+  ],
+  "observacoes": null
+}

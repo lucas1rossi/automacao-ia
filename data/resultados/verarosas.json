@@ -1,0 +1,21 @@
+{
+  "nome": "Vera Rosas Regulatory Affairs",
+  "descricao": "Fundada em 1999, a Vera Rosas é uma empresa de consultoria especializada em assuntos regulatórios, aprovação e registro de produtos junto à ANVISA, legalização de empresas junto aos órgãos de Vigilância Sanitária e implementação de Boas Práticas relacionadas à fabricação, armazenamento, importação e distribuição de produtos.",
+  "website": "https://www.verarosas.com.br",
+  "email": "comercial@verarosas.com.br",
+  "telefone": "+55 11 3889 0875",
+  "endereco": "Rua Batataes, 376 - Jardim Paulista - São Paulo/SP - CEP: 01423-010",
+  "tipo_empresa": "Prestador de Serviços",
+  "segmentos_medicos": [],
+  "certificacoes": [],
+  "produtos": [],
+  "fontes": [
+    "https://www.verarosas.com.br/",
+    "https://www.verarosas.com.br/qualidade-e-conformidade",
+    "https://www.verarosas.com.br/contato",
+    "https://www.verarosas.com.br/empresas",
+    "https://www.verarosas.com.br/sobre",
+    "https://www.verarosas.com.br/legalizacao-de-empresas"
+  ],
+  "observacoes": null
+}

@@ -1,0 +1,429 @@
+{
+  "nome": "SPM MEDICARE PVT. LTD",
+  "descricao": "SPM MEDICARE PVT. LTD has set-up a state-of-the-art manufacturing facility in the National Capital Region (NCR) of India for manufacturing Disposable Medical Devices and Surgical Products. Since the Company’s inception in 2015, SPM Medicare has emerged as one of the fastest growing companies in India in the medical sector, and the Company has won laurels for its commitment to Quality and Service in manufacturing and exporting finest products at competitive prices.",
+  "website": "https://spmmedicare.com",
+  "email": "info@spmmedicare.com",
+  "telefone": "+91-840-7070-718",
+  "endereco": "B-40, Phase-II, Noida, U.P.-201305, India",
+  "tipo_empresa": "Fabricante",
+  "segmentos_medicos": [
+    "Terapia Infusional",
+    "Controle de Infecção",
+    "Endocrinologia",
+    "Nutrição Clínica",
+    "Cirurgia Geral",
+    "Urologia"
+  ],
+  "certificacoes": [
+    "ISO 13485",
+    "CE",
+    "USFDA",
+    "SEDEX"
+  ],
+  "produtos": [
+    {
+      "nome": "Easy-Vein Control-Way",
+      "descricao": "Closed IV Cannula with active safety system, integrated valve to prevent backflow, blood leakage and contamination, stabilizing platform, integrated sliding clamp, transparent flashback chamber, PUR radiopaque catheter, and dual needle-free connectors.",
+      "categoria": "Line Access / closed iv cannula / Medical Devices",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/easy-vein-control-1-600x385.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/control-way-closed-iv-cannula/"
+    },
+    {
+      "nome": "Easy-Vein Safy Super",
+      "descricao": "Safety IV Cannula with wings with port, featuring automatic needle protection to prevent needlestick injuries, tapered & kink resistant PUR/FEP radiopaque catheter, and transparent flashback chamber.",
+      "categoria": "Line Access / Medical Devices",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/SAFETY-I.V.-CANNULA-1-600x452.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/safety-i-v-cannula/"
+    },
+    {
+      "nome": "Easy-Vein Safy Ultra",
+      "descricao": "I.V. Cannula with injection Port & with Wings with Safety Feature, featuring manual needle retraction safety mechanism, flexible wings, polyurethane and FEP catheter with integrated radiopaque line.",
+      "categoria": "Medical Devices",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/easy-vein-safy-super.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/safety-iv-cannula/"
+    },
+    {
+      "nome": "Easy-Vein Win Safy Super",
+      "descricao": "Safety IV Cannula without wings without port.",
+      "categoria": "Line Access",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/4-600x600.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/accu-vein-win-iv-cannula/"
+    },
+    {
+      "nome": "Easy-vein ( Accu-vein )",
+      "descricao": "IV Cannula with wings with port.",
+      "categoria": "Line Access",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/4-600x600.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/accu-vein-win-iv-cannula/"
+    },
+    {
+      "nome": "Easy-vein Win (Accu-vien on)",
+      "descricao": "IV Cannula without port and without wings.",
+      "categoria": "Line Access",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/4-600x600.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/accu-vein-win-iv-cannula/"
+    },
+    {
+      "nome": "Easy-Vein NÜo",
+      "descricao": "IV Cannula with small wings without port.",
+      "categoria": "Line Access",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/Untitled-design-2-600x600.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/easy-vein-nuoi-v-cannula-with-small-wings-without-injection-port/"
+    },
+    {
+      "nome": "Easy-Flush",
+      "descricao": "Prefilled Saline Flush Syringe.",
+      "categoria": "Line Conditioning",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/flush-syringe-1-600x449.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/flush-syringe-sterile-fluid-path/"
+    },
+    {
+      "nome": "Easy-Flush Heparin",
+      "descricao": "Prefilled Heprin Flush Syringe.",
+      "categoria": "Line Conditioning",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/Untitled-design-3-600x600.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/heparin-flush-syringe/"
+    },
+    {
+      "nome": "Easy-Flush Citra Safe",
+      "descricao": "Prefilled Sodium Citrate Flush Syringe - 4%.",
+      "categoria": "Line Conditioning",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/Untitled-design-4-600x600.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/sodium-citrate-flush-syringe/"
+    },
+    {
+      "nome": "Easy-Fill Aqua",
+      "descricao": "Pre-filled Syringe with Sterile Water.",
+      "categoria": "Line Conditioning",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/Untitled-2-6-1.jpg",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/prefilled-syringe-with-sterile-water/"
+    },
+    {
+      "nome": "Easy-Fill Glycesure",
+      "descricao": "Prefilled Syringe with 10% Glycerin Solution.",
+      "categoria": "Line Conditioning",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/1-1-600x600.png",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/10-glycerine-solution/"
+    },
+    {
+      "nome": "Easy-Saaf Cap Pro",
+      "descricao": "Disinfectant Cap.",
+      "categoria": "Line Protection",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/disinfection_cap_enhanced1-1-600x400.png",
+      "segmentos_medicos": [
+        "Terapia Infusional",
+        "Controle de Infecção"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/disinfectant-cap/"
+    },
+    {
+      "nome": "Accu-Site",
+      "descricao": "Needle Free Valve.",
+      "categoria": "Line Protection",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/Screenshot-2026-02-05-165400.jpg",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/needle-free-valve/"
+    },
+    {
+      "nome": "Accu-Flow Airsafe Regular",
+      "descricao": "IV Set Vented With Auto Air Stop filter.",
+      "categoria": "Infusion Therapy",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/2024/06/238698accu-flow-connect-150x150.webp",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/air-safe-elite/"
+    },
+    {
+      "nome": "ACCU-FLOW™ UV Shield Purge",
+      "descricao": "Light Resistant Infusion Set with Flow Regulator & Purge filter.",
+      "categoria": "Infusion Therapy",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/ACCU-FLOW-PURGE-1.jpg",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/uv-shield-purge/"
+    },
+    {
+      "nome": "Accu-Line",
+      "descricao": "Pressure Monitoring Line.",
+      "categoria": "Infusion Therapy",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/Screenshot-2026-02-05-170431.jpg",
+      "segmentos_medicos": [
+        "Terapia Infusional"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/pressure-monitoring-line-2/"
+    },
+    {
+      "nome": "Easy Jet",
+      "descricao": "u-40 insulin syringes | 29G, 30G, 31G gauge insulin syringes.",
+      "categoria": "Insulin syringe / Syringes",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/accu-shot-insulin-600x442.png",
+      "segmentos_medicos": [
+        "Endocrinologia"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/u-40-insulin-syringes/"
+    },
+    {
+      "nome": "Accu Shot Insulin Syringe",
+      "descricao": "u 100 insulin syringes | 29, 30, 31 gauge insulin syringes.",
+      "categoria": "Insulin syringe / Syringes",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/accu-shot-insulin-600x442.png",
+      "segmentos_medicos": [
+        "Endocrinologia"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/u-100-insulin-syringes/"
+    },
+    {
+      "nome": "Easy-Blood Collect",
+      "descricao": "In-Line Arterial Blood Sampling Set designed to obtain an in-line arterial blood specimen while maintaining a closed system for blood gas analysis.",
+      "categoria": "Medical Devices",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/2024/06/easy-blood-collect-1-600x466.webp",
+      "segmentos_medicos": [],
+      "fonte_url": "https://spmmedicare.com/product/arterial-syringe-in-line-arterial-blood-sampling-set/"
+    },
+    {
+      "nome": "6×6 Cm CHG Wipes",
+      "descricao": "CHG Wipes with antibacterial features, non-woven fabric, 80 wipes per pack.",
+      "categoria": "CHG WIPES",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/10x12-cm-chg-wipes-500x500-3.webp",
+      "segmentos_medicos": [
+        "Controle de Infecção"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/6x6-cm-chg-wipes/"
+    },
+    {
+      "nome": "10×12 Cm CHG Wipes",
+      "descricao": "CHG Wipes with antibacterial features, non-woven fabric, 80 wipes per pack.",
+      "categoria": "CHG WIPES",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/10x12-cm-chg-wipes-500x500-3.webp",
+      "segmentos_medicos": [
+        "Controle de Infecção"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/6x6-cm-chg-wipes/"
+    },
+    {
+      "nome": "20×20 Cm CHG Wipes",
+      "descricao": "20×20 Cm CHG Wipes with antibacterial features, non-woven fabric, 80 wipes per pack.",
+      "categoria": "CHG WIPES",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/10x12-cm-chg-wipes-500x500-3.webp",
+      "segmentos_medicos": [
+        "Controle de Infecção"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/6x6-cm-chg-wipes/"
+    },
+    {
+      "nome": "5ml Oral Dosing Syringe",
+      "descricao": "Catheter tip, disposable, sterile oral dosing syringe.",
+      "categoria": "Oral Dosing Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/5ml-oral-dosing-syringe-500x500-3.webp",
+      "segmentos_medicos": [],
+      "fonte_url": "https://spmmedicare.com/product/20ml-oral-dosing-syringe/"
+    },
+    {
+      "nome": "10ml Oral Dosing Syringe",
+      "descricao": "Catheter tip, disposable, sterile oral dosing syringe.",
+      "categoria": "Oral Dosing Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/10ml-oral-dosing-syringe-500x500-3.webp",
+      "segmentos_medicos": [],
+      "fonte_url": "https://spmmedicare.com/product/10ml-oral-dosing-syringe/"
+    },
+    {
+      "nome": "20ml Oral Dosing Syringe",
+      "descricao": "20ml Oral Dosing Syringe is a sterile syringe for safe and accurate oral medication delivery, with catheter tip, plastic body.",
+      "categoria": "IV Set / Medical Devices / Oral Dosing Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/20ml-oral-dosing-syringe-500x500-3.webp",
+      "segmentos_medicos": [],
+      "fonte_url": "https://spmmedicare.com/product/20ml-oral-dosing-syringe/"
+    },
+    {
+      "nome": "60ml Oral Dosing Syringe",
+      "descricao": "Catheter tip, disposable, sterile oral dosing syringe.",
+      "categoria": "Oral Dosing Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/60ml-oral-dosing-syringe-500x500-3.webp",
+      "segmentos_medicos": [],
+      "fonte_url": "https://spmmedicare.com/product/60ml-oral-dosing-syringe/"
+    },
+    {
+      "nome": "1ml ENFit Syringe",
+      "descricao": "1ml ENFit Syringe is a sterile syringe designed for accurate administration of small enteral medication doses with ENFit connector, luer lock tip.",
+      "categoria": "IV Set / Medical Devices / ENFIT Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/20ml-conical-tip-syringe-500x500-1.webp",
+      "segmentos_medicos": [
+        "Nutrição Clínica"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/1ml-enfit-syringe/"
+    },
+    {
+      "nome": "3ml ENFit Syringe",
+      "descricao": "Luer lock tip, disposable ENFit syringe.",
+      "categoria": "ENFIT Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/3ml-enfit-syringe-500x500-3.webp",
+      "segmentos_medicos": [
+        "Nutrição Clínica"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/3ml-enfit-syringe/"
+    },
+    {
+      "nome": "5ml ENFit Syringe",
+      "descricao": "Luer lock tip, disposable ENFit syringe.",
+      "categoria": "ENFIT Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/5ml-enfit-syringe-500x500-3.webp",
+      "segmentos_medicos": [
+        "Nutrição Clínica"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/5ml-enfit-syringe/"
+    },
+    {
+      "nome": "10ml ENFit Syringe",
+      "descricao": "10ml ENFit Syringe is a high-quality sterile syringe for enteral feeding applications with ENFit connector, luer lock tip.",
+      "categoria": "IV Set / Medical Devices / ENFIT Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/10ml-enfit-syringe-500x500-3.webp",
+      "segmentos_medicos": [
+        "Nutrição Clínica"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/10ml-enfit-syringe/"
+    },
+    {
+      "nome": "20ml ENFit Syringe",
+      "descricao": "Luer lock tip, disposable ENFit syringe.",
+      "categoria": "ENFIT Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/20ml-enfit-syringe-500x500-3.webp",
+      "segmentos_medicos": [
+        "Nutrição Clínica"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/20ml-enfit-syringe/"
+    },
+    {
+      "nome": "30ml ENFit Syringe",
+      "descricao": "Luer lock tip, disposable ENFit syringe.",
+      "categoria": "ENFIT Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/30ml-enfit-syringe-500x500-3.webp",
+      "segmentos_medicos": [
+        "Nutrição Clínica"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/30ml-enfit-syringe/"
+    },
+    {
+      "nome": "50ml ENFit Syringe",
+      "descricao": "Luer lock tip, disposable ENFit syringe.",
+      "categoria": "ENFIT Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/50ml-enfit-syringe-1000x1000-1-600x600.webp",
+      "segmentos_medicos": [
+        "Nutrição Clínica"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/50ml-enfit-syringe/"
+    },
+    {
+      "nome": "60ml ENFit Syringe",
+      "descricao": "Luer lock tip, disposable ENFit syringe.",
+      "categoria": "ENFIT Syringe",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/60ml-enfit-syringe-1000x1000-2-600x600.webp",
+      "segmentos_medicos": [
+        "Nutrição Clínica"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/60ml-enfit-syringe/"
+    },
+    {
+      "nome": "Easy Grip Nitro Examination Gloves",
+      "descricao": null,
+      "categoria": "Medical Devices / Medical Equipments",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/Nitrile-Gloves-1.jpg",
+      "segmentos_medicos": [],
+      "fonte_url": "https://spmmedicare.com/product/easy-grip-nitro-examination-gloves/"
+    },
+    {
+      "nome": "Robotics Camera Control (Aktormed)",
+      "descricao": null,
+      "categoria": "Medical Equipments",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/2024/06/image-600x875.webp",
+      "segmentos_medicos": [],
+      "fonte_url": "https://spmmedicare.com/product/robotics-camera-control-aktormed/"
+    },
+    {
+      "nome": "Surgical ( Easy – Clip Titanium Ligating Clips )",
+      "descricao": null,
+      "categoria": "Surgical Instrument",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/2024/06/A-600x381.png",
+      "segmentos_medicos": [
+        "Cirurgia Geral"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/surgical-easy-clip-titanium-ligating-clips/"
+    },
+    {
+      "nome": "Easy-Cision ( Soft Tissue Trephine) Disposable Circumcision Stapler | Double Handle",
+      "descricao": null,
+      "categoria": "Surgical Instrument",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/2024/06/B-600x537.png",
+      "segmentos_medicos": [
+        "Urologia",
+        "Cirurgia Geral"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/circumcision-stapler/"
+    },
+    {
+      "nome": "Easy-Trocar ( Disposable Trocar Needle)​ – Bladeless",
+      "descricao": null,
+      "categoria": "Surgical Instrument",
+      "imagem_url": "https://spmmedicare.com/wp-content/uploads/2024/06/C-600x602.png",
+      "segmentos_medicos": [
+        "Cirurgia Geral"
+      ],
+      "fonte_url": "https://spmmedicare.com/product/disposable-trocar-needle/"
+    }
+  ],
+  "fontes": [
+    "https://spmmedicare.com/",
+    "https://spmmedicare.com/about-us/",
+    "https://spmmedicare.com/product/1ml-enfit-syringe/",
+    "https://spmmedicare.com/product-category/medical-equipments/",
+    "https://spmmedicare.com/product/safety-iv-cannula/",
+    "https://spmmedicare.com/product/safety-i-v-cannula/",
+    "https://spmmedicare.com/product/control-way-closed-iv-cannula/",
+    "https://spmmedicare.com/product-category/syringes/insulin-syringe/",
+    "https://spmmedicare.com/product/arterial-syringe-in-line-arterial-blood-sampling-set/",
+    "https://spmmedicare.com/product/20ml-oral-dosing-syringe/",
+    "https://spmmedicare.com/about-us-eurocare/",
+    "https://spmmedicare.com/product/10ml-enfit-syringe/",
+    "https://spmmedicare.com/product-category/surgical-instrument/"
+  ],
+  "observacoes": null
+}

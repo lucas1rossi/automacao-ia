@@ -1,0 +1,82 @@
+{
+  "nome": "Life Spine Implantes",
+  "descricao": "A Life Spine Implantes é uma distribuidora de implantes e serviços de coluna e crânio. Com início de suas operações em 2002, atua na comercialização de produtos e serviços para os segmentos de neurocirurgia e implantes de coluna.",
+  "website": "http://lifespine.com.br",
+  "email": null,
+  "telefone": null,
+  "endereco": null,
+  "tipo_empresa": "Distribuidor",
+  "segmentos_medicos": [
+    "Neurocirurgia"
+  ],
+  "certificacoes": [],
+  "produtos": [
+    {
+      "nome": "Timberline",
+      "descricao": "Completo sistema de fusão de acesso lateral LLIF, incluindo um intuitivo sistema que tem a capacidade de incorporar uma placa modular de titânio de baixo perfil integrada para auxiliar na fixação da coluna lombar, PEEK-OPTIMA® espaçadores intercorpos LT1 e afastador para a cirurgia transpsoática radiotransparente com instrumentais cuidadosamente projetados.",
+      "categoria": "Coluna",
+      "imagem_url": "http://lifespine.com.br/wp-content/uploads/2022/10/post.png",
+      "segmentos_medicos": [
+        "Neurocirurgia"
+      ],
+      "fonte_url": "http://lifespine.com.br/2022/10/28/lancamento-timberline/"
+    },
+    {
+      "nome": "ROI-C",
+      "descricao": "Solução para coluna cervical.",
+      "categoria": "Coluna",
+      "imagem_url": null,
+      "segmentos_medicos": [
+        "Neurocirurgia"
+      ],
+      "fonte_url": "http://lifespine.com.br/"
+    },
+    {
+      "nome": "MOBI-C",
+      "descricao": "Solução para coluna cervical.",
+      "categoria": "Coluna",
+      "imagem_url": "http://lifespine.com.br/wp-content/uploads/2023/09/mobi-c-mania-10yr-summary-2-300x189.png",
+      "segmentos_medicos": [
+        "Neurocirurgia"
+      ],
+      "fonte_url": "http://lifespine.com.br/mobi-c-10-anos/"
+    },
+    {
+      "nome": "ROI-A",
+      "descricao": "Solução para coluna lombar.",
+      "categoria": "Coluna",
+      "imagem_url": null,
+      "segmentos_medicos": [
+        "Neurocirurgia"
+      ],
+      "fonte_url": "http://lifespine.com.br/"
+    },
+    {
+      "nome": "MOBIDISC-L",
+      "descricao": "Solução para coluna lombar.",
+      "categoria": "Coluna",
+      "imagem_url": null,
+      "segmentos_medicos": [
+        "Neurocirurgia"
+      ],
+      "fonte_url": "http://lifespine.com.br/"
+    },
+    {
+      "nome": "OPTIO-C®",
+      "descricao": null,
+      "categoria": "Coluna",
+      "imagem_url": "http://lifespine.com.br/wp-content/uploads/2020/12/Optio-C.png",
+      "segmentos_medicos": [
+        "Neurocirurgia"
+      ],
+      "fonte_url": "http://lifespine.com.br/2020/12/14/lancamento-optio-c/"
+    }
+  ],
+  "fontes": [
+    "http://lifespine.com.br/",
+    "http://lifespine.com.br/contatos/",
+    "http://lifespine.com.br/nossos-produtos/",
+    "http://lifespine.com.br/sobre/"
+  ],
+  "observacoes": null
+}

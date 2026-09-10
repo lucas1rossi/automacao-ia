@@ -1,0 +1,41 @@
+{
+  "nome": "Kontour Medical",
+  "descricao": "Kontour Medical is a medical technology company dedicated to developing and manufacturing patient-specific implant solutions and advanced biomaterial-based medical devices. With a focus on cranial, maxillofacial, thoracic, and neurosurgical applications, we work closely with surgeons, healthcare institutions, and global partners to support precise, reliable surgical repair and improve patient care.",
+  "website": "https://kontourmed.com",
+  "email": null,
+  "telefone": null,
+  "endereco": null,
+  "tipo_empresa": "Fabricante",
+  "segmentos_medicos": [
+    "Neurocirurgia",
+    "Cirurgia Bucomaxilofacial",
+    "Cirurgia Torácica",
+    "Cardiologia",
+    "Odontologia",
+    "Ortopedia"
+  ],
+  "certificacoes": [],
+  "produtos": [
+    {
+      "nome": "Kontour Cranial Fixation and Reparation Systems",
+      "descricao": "Made from British Invibio® PEEK-OPTIMA® polymer, a high-performance biomaterial that meets the strictest implant standards. It features excellent mechanical properties, ease of shaping, chemical stability, and biocompatibility. It can withstand high-temperature steam and radiation sterilization and has radiolucency, making it widely used in cardiovascular, dental, neurosurgery, maxillofacial surgery, and orthopedic implants.",
+      "categoria": "Implant System",
+      "imagem_url": "https://kontourmed.com/io/L2ltYWdlcy9ob21lL1NrZXRjaFBuZzk4OTFhYzVjMjc0N2Q2YzcwYmRiMzJmOGZlNmU0OTQ4NGFkM2E0Nzk4ZjU4MGI5MTA1ZjlkNTI3NDM3ZjMzNTIucG5n/1920/75",
+      "segmentos_medicos": [
+        "Cardiologia",
+        "Odontologia",
+        "Neurocirurgia",
+        "Cirurgia Bucomaxilofacial",
+        "Ortopedia"
+      ],
+      "fonte_url": "https://kontourmed.com/"
+    }
+  ],
+  "fontes": [
+    "https://kontourmed.com/",
+    "https://kontourmed.com/products",
+    "https://kontourmed.com/about",
+    "https://kontourmed.com/services"
+  ],
+  "observacoes": null
+}
