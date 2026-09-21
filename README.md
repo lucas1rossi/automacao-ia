@@ -148,8 +148,8 @@ ai-data-agent/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/lucas1rossi/automacao-ia-dados.git
-cd automacao-ia-dados
+git clone https://github.com/lucas1rossi/automacao-ia.git
+cd automacao-iaD
 ```
 
 ### 2. Criar e ativar o ambiente virtual
